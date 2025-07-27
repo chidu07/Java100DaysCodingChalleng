@@ -3,6 +3,7 @@ package arrays;
 import java.util.HashMap;
 import java.util.Map;
 
+//Find the frequency of each element in an array.
 public class FindfrequencyOfNumber {
     public static void main(String[] args) {
         int a[] = { 1, 3, 5, 6, 3, 2, 6, 3 };
