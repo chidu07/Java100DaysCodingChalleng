@@ -2,8 +2,8 @@ package arrays;
 
 import java.util.Arrays;
 
-// 7. Copy one array to another.
-public class CopyOneToAnother {
+// Merge two arrays.
+public class MergeToArray {
     public static void main(String[] args) {
         int a[] = { 2, 4, 5, 6, 7, 8 };
         int b[] = { 4, 5, 3, 7, 8 };
