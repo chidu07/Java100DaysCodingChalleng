@@ -53,7 +53,7 @@ public class MergeSortAlgo {
     }
 
     public static void main(String[] args) {
-        int arr[] = { 100, 40, 30, 20, 60, 70, 50,10 };
+        int arr[] = { 100, 40, 30, 20, 60, 70, 50, 10 };
         int res[] = divide(arr);
         System.out.println(Arrays.toString(res));
 
