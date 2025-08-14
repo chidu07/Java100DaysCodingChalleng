@@ -20,6 +20,7 @@ public class HappyNumberDemo {
         if (res == 1) {
             System.out.println("Happyy number");
         } else {
+            
             System.out.println("Its not");
         }
     }
