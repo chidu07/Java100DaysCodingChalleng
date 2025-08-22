@@ -9,10 +9,10 @@ class Movie {
     }
 
     void displayMovieInfo() {
-        // System.out.println("Movie: " + movie_name);
-        // System.out.println("Language: " + language);
-        // System.out.println("Genre: " + genere);
-        // System.out.println("Rating: " + rating);
+        System.out.println("Movie: " + movie_name);
+        System.out.println("Language: " + language);
+        System.out.println("Genre: " + genere);
+        System.out.println("Rating: " + rating);
     }
 
 }
