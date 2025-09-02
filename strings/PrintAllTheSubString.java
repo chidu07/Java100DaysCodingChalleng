@@ -1,5 +1,4 @@
 
-
 public class PrintAllTheSubString {
 
 	public static void main(String[] args) {
